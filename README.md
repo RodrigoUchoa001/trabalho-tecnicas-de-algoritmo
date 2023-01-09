@@ -11,3 +11,5 @@
 # backtracking
 - problema das n rainhas
 
+# programação dinâmica
+- quantas vezes dá pra dividir n elementos
