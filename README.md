@@ -8,3 +8,6 @@
 # Divisão e conquista
 - encontrar mínimo e máximo valor de um array
 
+# backtracking
+- problema das n rainhas
+
