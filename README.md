@@ -13,3 +13,6 @@
 
 # programação dinâmica
 - quantas vezes dá pra dividir n elementos
+  
+# algoritmo guloso
+- policia e ladrão
