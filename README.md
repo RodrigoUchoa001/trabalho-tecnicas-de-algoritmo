@@ -12,7 +12,7 @@
 - problema das n rainhas
 
 # programação dinâmica
-- quantas vezes dá pra dividir n elementos
+- Quantos pulos para chegar ao fim
   
 # algoritmo guloso
 - policia e ladrão
