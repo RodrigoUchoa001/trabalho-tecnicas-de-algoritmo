@@ -12,7 +12,7 @@
 - problema das n rainhas
 
 # programação dinâmica
-- Quantos pulos para chegar ao fim
+- Fibonacci com programação dinâmica
   
 # algoritmo guloso
 - policia e ladrão
