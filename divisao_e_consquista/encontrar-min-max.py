@@ -16,4 +16,4 @@ def encontrar_min_max(numeros):
 print(encontrar_min_max([1, 2, 3, 4, 5]))  # (1, 5)
 print(encontrar_min_max([5, 4, 3, 2, 1]))  # (1, 5)
 print(encontrar_min_max([5, 1, 2, 4, 3]))  # (1, 5)
-print(encontrar_min_max([]))  # (1, 5)
+print(encontrar_min_max([]))  # vetor vazio
