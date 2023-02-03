@@ -22,5 +22,5 @@ print("A quantidade de água presa é: ", problema_da_agua_da_chuva(buildings))
 buildings = [1, 0, 2, 0, 3]
 print("A quantidade de água presa é: ", problema_da_agua_da_chuva(buildings))
 
-buildings = [3, 0, 0, 2, 0, 4]
+buildings = [0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1]
 print("A quantidade de água presa é: ", problema_da_agua_da_chuva(buildings))
