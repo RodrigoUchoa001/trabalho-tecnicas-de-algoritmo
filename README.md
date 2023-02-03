@@ -12,7 +12,7 @@
 - problema das n rainhas
 
 # programação dinâmica
-- Fibonacci com programação dinâmica
+- Problema da água da chuva
   
 # algoritmo guloso
 - policia e ladrão
