@@ -16,5 +16,8 @@ def problema_da_agua_da_chuva(buildings):
 
   return water
 
-buildings = [2,0,1]
+buildings = [2,0,2]
+print("A quantidade de água presa é: ", problema_da_agua_da_chuva(buildings))
+
+buildings = [3, 0, 0, 2, 0, 4]
 print("A quantidade de água presa é: ", problema_da_agua_da_chuva(buildings))
